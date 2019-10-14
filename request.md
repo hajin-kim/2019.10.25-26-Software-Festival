@@ -38,7 +38,8 @@
 
 
 
-## <a name="2_pycharm">인공지능 체험용 PyCharm 설치 가이드</a><br>
+## <a name="2_pycharm">인공지능 체험용 PyCharm 설치 가이드</a>
+<br>
 
 1. `pycharm-community-2019.2.3.exe`를 실행합니다.
 
@@ -58,6 +59,7 @@
 
 
 ## <a name="3_arduino">하드웨어 체험용 Arduino 설치 가이드</a>
+<br>
 
 1.  `arduino-1.8.10-windows.exe`를 실행합니다.
 
