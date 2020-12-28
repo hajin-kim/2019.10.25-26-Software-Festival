@@ -22,13 +22,13 @@
 
 1. `vs_community__1803880812.1570253271.exe`를 실행합니다.
 
-<img src="/request_src/vs2019_1.png"><br>
+<img src="/request_img/vs2019_1.png"><br>
 <br>
 
 2. 아래 사진과 같은 화면이 표시되면 적색 체크박스를 설정해줍니다.
 <br>그 후 주황색 체크박스를 <strong>해제</strong>해줍니다.
 
-<img src="/request_src/vs2019_2.png"><br>
+<img src="/request_img/vs2019_2.png"><br>
 <br>
 
 3. 설치가 완료되면 설치 프로그램을 닫습니다.
@@ -43,12 +43,12 @@
 
 1. `pycharm-community-2019.2.3.exe`를 실행합니다.
 
-<img src="/request_src/pycharm_1.png"><br>
+<img src="/request_img/pycharm_1.png"><br>
 <br>
 
 2. 아래 사진과 같은 화면이 표시되면 적색 체크박스를 설정해줍니다.
 
-<img src="/request_src/pycharm_2.png"><br>
+<img src="/request_img/pycharm_2.png"><br>
 <br>
 
 3. 설치가 완료되면 설치 프로그램을 닫습니다.
@@ -63,7 +63,7 @@
 
 1.  `arduino-1.8.10-windows.exe`를 실행합니다.
 
-<img src="/request_src/arduino_1.png"><br>
+<img src="/request_img/arduino_1.png"><br>
 <br>
 
 2. 설치가 완료되면 설치 프로그램을 닫습니다.

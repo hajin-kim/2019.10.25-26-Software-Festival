@@ -32,4 +32,4 @@
  - 소프트웨어에 관심 있는 학생
  - 특히 미래 기술, 프로그래밍, AI, 하드웨어 등의 분야에 관심 많은 학생
 
-<img src="/recruitment_src/recruitment.jpg"><br>
+<img src="/recruitment_img/recruitment.jpg"><br>
